@@ -4,7 +4,7 @@
 
 --
 
-![Website preview 1](/images/preview1.png)
+![Website preview 1](/images/preview1.png) ![Website preview 2](images/preview2.png)
 
 --
 
